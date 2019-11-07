@@ -1,5 +1,5 @@
 # zabawa z modulami
 
-## https://przemekbartecki.github.io/module/module/index.html
+## https://przemekbartecki.github.io/module/index.html
 
 
