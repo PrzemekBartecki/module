@@ -1,4 +1,4 @@
-let a = 3;
+let a = 69;
 let b = 'test';
 
 export {
