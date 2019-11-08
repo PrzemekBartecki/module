@@ -1,10 +1,10 @@
 import {
     a,
     b
-} from '/modl.js'
+} from './modl.js'
 import {
     arrayName
-} from '/other.js'
+} from './other.js'
 
 console.log('test');
 console.log('wartosc zmienej a', a);
